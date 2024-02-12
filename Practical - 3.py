@@ -1,6 +1,6 @@
 #A
-str1 = "Krishna"
-str2 = " Shah"
+str1 = "Vishnu"
+str2 = "Thaker"
 
 str3 = str1 + str2
 print("Concatenate String : ",str3)
